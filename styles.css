@@ -31,10 +31,15 @@ button {
 
 #increment-btn {
     background: #4895ef;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #save-btn {
-    background: darkgreen;
+    background: #a14fc4;
     display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
